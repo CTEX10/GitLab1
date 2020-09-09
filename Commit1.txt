@@ -1,0 +1,4 @@
+Roses are red
+Violets are blue
+This is first time using Git
+How about you
